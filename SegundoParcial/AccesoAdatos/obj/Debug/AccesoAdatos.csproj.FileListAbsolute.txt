@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\bin\Debug\AccesoAdatos.dll
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\bin\Debug\AccesoAdatos.pdb
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\bin\Debug\pfentidades.dll
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\bin\Debug\pfentidades.pdb
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\obj\Debug\AccesoAdatos.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\obj\Debug\AccesoAdatos.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\obj\Debug\AccesoAdatos.csproj.CopyComplete
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\obj\Debug\AccesoAdatos.dll
+C:\Users\hp\Desktop\CAI\SegundoParcial\SegundoParcial\AccesoAdatos\obj\Debug\AccesoAdatos.pdb
